@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pistol Owners]]></title>
         <description><![CDATA[Pistol Owners]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pistol-owners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 01:24:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 01:27:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pistol-owners/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CZ 75 Tac II Shadow 9mm]]></title>
+            <description><![CDATA[<article><h1>CZ 75 Tac II Shadow 9mm</h1><p>Celebrating the 40th Anniversary of the CZ 75b (my favorite range gun),CZ USAis set to release a big lineup of new weapons in 2015.  One of the featured releases is the CZ 75 Tac II Shadow 9mm.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e39823be-9f49-4466-afb9-b9e770f4e8ad.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pistol-owners/cz-75-tac-ii-shadow-9mm/index.html</link>
+            <guid isPermaLink="false">f02bcee9-68f4-4efa-b69c-d7c4653a8e5f</guid>
+            <pubDate>Mon, 14 Mar 2016 01:26:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CZ USA Brings An Iconic Gun To The Civilian Market]]></title>
-            <description><![CDATA[<h1>CZ USA Brings An Iconic Gun To The Civilian Market</h1>]]></description>
-            <link>undefinedcz-usa-brings-an-iconic-gun-to-the-civilian-market/index.html</link>
+            <description><![CDATA[<article><h1>CZ USA Brings An Iconic Gun To The Civilian Market</h1><p>CZ USA, celebrating 40 years with their CZ 75b 9mm, is launching a host of new weapons in 2015 (to include the competitiveTac II).</p></article>]]></description>
+            <link>https://thegrid.ai/pistol-owners/cz-usa-brings-an-iconic-gun-to-the-civilian-market/index.html</link>
             <guid isPermaLink="false">acf04882-fdba-4aa4-b579-b2775095b315</guid>
             <pubDate>Mon, 14 Mar 2016 01:24:15 GMT</pubDate>
         </item>
