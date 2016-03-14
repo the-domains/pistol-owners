@@ -1,7 +1,8 @@
 name: Pistol Owners
 favicon: null
-layout_spectrum: 0.6238820168655366
-typography_spectrum: 0.6282714593689889
+layout_spectrum: 0.77325
+typography_spectrum: 0.71015
+title: Pistol Owners
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#ada39a'
+    - '#363640'
+    - '#5e5d6d'
+    - '#d8466a'
   brandStrength: 0.7964542887639254
   lightness: 0.12585266726091504
   saturation: 0.10050672525539994
