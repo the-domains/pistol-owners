@@ -1,0 +1,33 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-14T01:28:35.442Z'
+dateModified: '2016-03-14T01:28:25.051Z'
+title: 'Glock seems to be a love or hate line of guns. As with any gun brand, you have the age old Chevy vs Ford type of arguments between owners, Glock is no exception. I admittedly was in the ‘will never own a Glock’ camp for many years owning a SIG for carry and a CZ 75b as my favorite range pistol. My hands are on the small side, so the wide Glock grip was not something I wanted to tackle. Not to mention the gun’s very utilitarian design. Its just not an attractive weapon.After deciding to purchase a 9mm in exchange for my SIG P238, I tried close to 15 different choices from the rental wall at my local range as well as a host of guns from friends collections. Reluctantly I finished my testing period with a Glock 19. My results were the tightest grouping from a gun that held 15 in the clip, and was actually a joy to shoot.After some research, I purchased and have loved this pistol ever since. So why should you own a Glock? Here are 5 solid reasons even if you are a Glock hater:Reliability– The Glock may be ugly, but it is the very basic no frills weapon it has always been designed to be. It is not made to win over the embossed gold grip 1911 crowd, it is made to be a sidearm you can rely on. The polymer frame can be beat up with no negative effect on the operational value of the gun.Simple– The Glock is designed with only 34 components. Less things to go wrong, just the right amount to be a weapon of choice. If you are willing to spend about 20 minutes on the web or Youtube, you will be able to strip it down to each component in no time with very little gunsmithing background.Customization– Not only are the components in any given Glock interchangeable with each other due to a standards based manufacturing practice, getting customized parts and aftermarket components is simple and the market is huge. Whether it is a new trigger or something more cosmetic, be assured you will be able to easily obtain it. As an example, I added a Hogue grip to help my smaller sized hands be able to hold and control it with easy.Capacity– Glock’s double stack magazines offer the highest capacity, especially for conceal and carry owners.Accuracy By Design– Low bore, low recoil and the grip designed that finds that “natural pointing angle” allows a gun that shoots tight grouping with a very fast target acquisition in between shots. The Gen 4 models feature a phenomenal new recoil spring design I find helps reduce the felt recoil leagues over other guns.Price– So, yeah, I said 5 reasons but everyone likes to save money. The price point for a Gen 4 Glock 19 over similar marketed carry guns is a savings of $100-500.While I will not replace my favorite range gun with the Glock 19, I can not discount it as a great choice for carry nor can I argue against it after comparing it to the industries biggest names like H&K, Beretta, SIG and Smith and Wesson. It just does what it is suppose to do.'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+author: []
+sourcePath: _posts/2016-03-14-glock-seems-to-be-a-love-or-hate-line-of-guns-as-with-any-g.md
+published: true
+url: glock-seems-to-be-a-love-or-hate-line-of-guns-as-with-any-g/index.html
+_type: Article
+
+---
+# Glock seems to be a love or hate line of guns. As with any gun brand, you have the age old Chevy vs Ford type of arguments between owners, Glock is no exception. I admittedly was in the 'will never own a Glock' camp for many years owning a SIG for carry and a CZ 75b as my favorite range pistol. My hands are on the small side, so the wide Glock grip was not something I wanted to tackle. Not to mention the gun's very utilitarian design. Its just not an attractive weapon.After deciding to purchase a 9mm in exchange for my SIG P238, I tried close to 15 different choices from the rental wall at my local range as well as a host of guns from friends collections. Reluctantly I finished my testing period with a Glock 19\. My results were the tightest grouping from a gun that held 15 in the clip, and was actually a joy to shoot.After some research, I purchased and have loved this pistol ever since. So why should you own a Glock? Here are 5 solid reasons even if you are a Glock hater:
+
+* **Reliability**-- The Glock may be ugly, but it is the very basic no frills weapon it has always been designed to be. It is not made to win over the embossed gold grip 1911 crowd, it is made to be a sidearm you can rely on. The polymer frame can be beat up with no negative effect on the operational value of the gun.
+* **Simple**-- The Glock is designed with only 34 components. Less things to go wrong, just the right amount to be a weapon of choice. If you are willing to spend about 20 minutes on the web or Youtube, you will be able to strip it down to each component in no time with very little gunsmithing background.
+* **Customization**-- Not only are the components in any given Glock interchangeable with each other due to a standards based manufacturing practice, getting customized parts and aftermarket components is simple and the market is huge. Whether it is a new trigger or something more cosmetic, be assured you will be able to easily obtain it. As an example, I added a Hogue grip to help my smaller sized hands be able to hold and control it with easy.
+* **Capacity**-- Glock's double stack magazines offer the highest capacity, especially for conceal and carry owners.
+* **Accuracy By Design**-- Low bore, low recoil and the grip designed that finds that "natural pointing angle" allows a gun that shoots tight grouping with a very fast target acquisition in between shots. The Gen 4 models feature a phenomenal new recoil spring design I find helps reduce the felt recoil leagues over other guns.
+* **Price**-- So, yeah, I said 5 reasons but everyone likes to save money. The price point for a Gen 4 Glock 19 over similar marketed carry guns is a savings of $100-500\.While I will not replace my favorite range gun with the Glock 19, I can not discount it as a great choice for carry nor can I argue against it after comparing it to the industries biggest names like H&K, Beretta, SIG and Smith and Wesson. It just does what it is suppose to do.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e2d09e3-0713-48f7-a62a-4cd1b2c89114.png)
